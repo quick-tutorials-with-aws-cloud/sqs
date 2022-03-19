@@ -1,4 +1,10 @@
-# SQS Queue
+# sqs
 
 This project creates:
-- SQS Queue;
+- A SQS Queue;
+
+## Helpful links
+
+- [What is Amazon Simple Queue Service?][1]
+
+[1]: https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html
